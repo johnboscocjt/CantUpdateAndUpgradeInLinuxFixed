@@ -1,7 +1,6 @@
 # CantUpdateAndUpgradeInLinuxFixed
 Here's a clear, beginner-friendly explanation you can save as a Markdown file (e.g., `fix-apt-lock-packagekit.md`) to share with someone who's new to Linux/Ubuntu and hitting this error.
 
-```markdown
 # Fixing the "Could not get lock /var/lib/apt/lists/lock" Error (held by packagekitd)
 
 ## What You're Seeing
